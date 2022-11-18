@@ -13,9 +13,9 @@
 
 - 📫 How to reach me - [email](mailto:praca.makowski@gmail.com)
 
-- ⚡ Fun fact: I am also a president of the IT division in [WRS](https://github.com/tul-ftims-students-council)*
+- ⚡ Fun fact: I am also a president of the IT division in [SSPŁ](https://github.com/tul-ftims-students-council)*
 
-*WRS is Departmental self government council of the Lodz University of Technology
+*SSPŁ is student's self government council of the Lodz University of Technology
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
