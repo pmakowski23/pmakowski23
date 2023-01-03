@@ -45,7 +45,7 @@
 
 
 <h3 align="left">Frontend</h3>
-<p>
+<p style="display: flex; gap: 1rem;">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/pmakowski23/svg/master/react.svg" alt="react" width="40" height="40"/> 
   </a>
